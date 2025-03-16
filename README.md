@@ -37,15 +37,15 @@ Hey there! I'm **TechGeeko**, a passionate developer, **SaaS builder**, and tech
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="GitHub Stats">
+      <img src="https://github-readme-stats.vercel.app/api?username=Techgeeko&show_icons=true&theme=radical" alt="GitHub Stats">
     </td>
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical" alt="GitHub Streak">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Techgeeko&theme=radical" alt="GitHub Streak">
     </td>
   </tr>
 </table>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Techgeeko&layout=compact&theme=radical)  
 
 ---
 
