@@ -46,10 +46,10 @@ Hey there! I'm **Agulonye Micheal Amarachukwu**, a passionate developer, **SaaS 
 
 ## 🔗 Let's Connect  
 
-💌 [Email](mailto:your.email@example.com)  
+💌 [Email](mailto:your.agulonyemicheal9@gmail.com)  
 🔗 [Portfolio](https://yourwebsite.com)  
-🐦 [Twitter](https://twitter.com/yourhandle)  
-🚀 [LinkedIn](https://linkedin.com/in/yourprofile)  
+🐦 [Twitter](https://twitter.com/agulonye_m)  
+🚀 [LinkedIn](https://ng.linkedin.com/in/micheal-agulonye-0b7240225)  
 
 ---
 
