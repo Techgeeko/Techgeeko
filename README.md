@@ -1,13 +1,8 @@
-<!-- Banner -->
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Tech Animation">
-
-# 🚀 TECHGEEKO  
-
 ------------------ T E C H G E E K O ------------------
 
 ## 👨‍💻 About Me  
 
-Hey there! I'm **TechGeeko**, a passionate developer, **SaaS builder**, and tech explorer. I love turning ideas into **scalable solutions** using modern tech stacks. Constantly diving into **Next.js, AI, and cloud computing**, I'm on a mission to build **disruptive tech products**.  
+Hey there! I'm **Agulonye Micheal Amarachukwu**, a passionate developer, **SaaS builder**, and tech explorer. I love turning ideas into **scalable solutions** using modern tech stacks. Constantly diving into **Next.js, AI, and cloud computing**, I'm on a mission to build **disruptive tech products**.  
 
 💡 **Currently Working On:**  
 🚀 A no-code drag-and-drop **mini SaaS builder**  
