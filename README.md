@@ -27,6 +27,10 @@ Hey there! I'm **TechGeeko**, a passionate developer, **SaaS builder**, and tech
 ![ShadCN](https://img.shields.io/badge/ShadCN-F2C94C?style=for-the-badge&logo=shadcn&logoColor=black)  
 
 ---
+### 🗄️ Databases & Hosting  
+![Xata](https://img.shields.io/badge/Xata-FF5F00?style=for-the-badge&logo=xata&logoColor=white)  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)  
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)  
 
 ## 📊 GitHub Stats  
 
