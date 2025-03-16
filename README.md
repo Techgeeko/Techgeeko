@@ -1,13 +1,9 @@
 ------------------ T E C H G E E K O ------------------
 
-## 👨‍💻 About Me  
-
-Hey there! I'm **Agulonye Micheal Amarachukwu**, a passionate developer, **SaaS builder**, and tech explorer. I love turning ideas into **scalable solutions** using modern tech stacks. Constantly diving into **Next.js, AI, and cloud computing**, I'm on a mission to build **disruptive tech products**.  
+I'm **Agulonye Micheal Amarachukwu**, a passionate developer, **SaaS builder**, and tech explorer. I love turning ideas into **scalable solutions** using modern tech stacks. Constantly diving into **Next.js, AI, and cloud computing**, I'm on a mission to build **disruptive tech products**.  
 
 💡 **Currently Working On:**  
-🚀 A free invoice builder [**Go Invoice**](https://goinvoice.ng) 
-📈 Scaling AI-driven **faceless content monetization**  
-🔬 Exploring **serverless architectures & automation**  
+🚀 A free invoice builder [**Go Invoice**](https://goinvoice.ng)
 
 ---
 
